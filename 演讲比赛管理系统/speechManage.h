@@ -53,4 +53,6 @@ public:
 	void showRecord();//显示往届记录
 
 	void clearRecord();//清空记录
+
+	void test();
 };
