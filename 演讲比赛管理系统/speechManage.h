@@ -54,5 +54,5 @@ public:
 
 	void clearRecord();//Çå¿Õ¼ÇÂ¼
 
-	void test();
+	void test2();
 };
